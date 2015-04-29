@@ -1,0 +1,14 @@
+{
+  "name": "patrickkelso-windows_profiles",
+  "version": "0.1.0",
+  "author": "patrickkelso",
+  "summary": "Profiles to do Windows stuff",
+  "license": "Apache 2.0",
+  "source": "https://github.com/patrickkelso/windows_profiles",
+  "project_page": "https://github.com/patrickkelso/windows_profiles",
+  "issues_url": "https://github.com/patrickkelso/windows_profiles/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
